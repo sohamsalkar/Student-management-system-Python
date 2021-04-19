@@ -1,7 +1,7 @@
 # Student-management-system-Python
 
 Watch it here ⬇️  <br>
->>> <a href="https://www.youtube.com/watch?v=DMXw7wM10ec"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
+>>> <a href="https://youtu.be/DMXw7wM10ec"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 >>> 
 >>>> © original work soham salkar
 
